@@ -51,7 +51,6 @@
     
     
          <LinearLayout
-        android:layout_below="@+id/search_search"
         android:id="@+id/search_result"
         style="@style/padding_10_body"
         android:layout_marginTop="179dp"
@@ -63,7 +62,6 @@
             style="@style/padding_10_body"
             android:layout_width="fill_parent"
             android:layout_height="355dp"
-            android:layout_below="@+id/head"
             android:drawSelectorOnTop="false" />
 
        </LinearLayout>
